@@ -38,7 +38,7 @@
     <ban-commons-lang-2.skip>false</ban-commons-lang-2.skip>
 
     <!-- Test dependencies version -->
-    <testcontainer.version>2.0.4</testcontainer.version>
+    <testcontainer.version>2.0.5</testcontainer.version>
 
   </properties>
   <dependencyManagement>
